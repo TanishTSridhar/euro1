@@ -1,0 +1,12 @@
+Course Details
+*****************
+Number of Courses : 2
+ 
+RegNo : 1
+Course : BE
+Title : JAVA
+ 
+RegNo : 2
+Course : BE
+Title : C#
+ 
