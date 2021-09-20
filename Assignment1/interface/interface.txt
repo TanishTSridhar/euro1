@@ -1,0 +1,13 @@
+Interfaces : Interface in C# is a blueprint of a class. It is like abstract class because all the methods which are declared inside the interface are abstract methods.
+Benefits of using interfaces:
+
+1. Interfaces allow us to implement polymorphic behaviour. 
+
+2. Interfaces allow us to develop very loosely coupled systems.
+3. Interfaces enable mocking for better unit testing.
+
+4. Interfaces enables us to implement multiple class inheritance in C#.
+
+5. Interfaces are great for implementing Inverson of Control or Dependancy Injection.
+
+6. Interfaces enable parallel application development.
