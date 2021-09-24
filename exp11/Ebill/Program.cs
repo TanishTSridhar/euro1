@@ -17,7 +17,7 @@ namespace Ebill
             n = Convert.ToInt32(Console.ReadLine());
 
             consumer[] con = new consumer[n];
-            //List<consumer> conlist = new List<consumer>();
+           
 
 
             for (int i = 0; i < n; i++)
@@ -46,14 +46,7 @@ namespace Ebill
 
             }
 
-           
-
-            /*for (int i = 0; i < n; i++)
-            {
-                conlist.Add(con[i]);
-
-            }
-            */
+        
 
             foreach (consumer item in con)
             {
